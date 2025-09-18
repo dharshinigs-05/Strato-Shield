@@ -26,3 +26,4 @@ def get_workers():
         {"id": 1, "name": "Raj", "location": "Zone A"},
         {"id": 2, "name": "Meena", "location": "Zone B"},
     ]
+
